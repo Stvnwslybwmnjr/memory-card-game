@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stvnwslybwmnjr/memory-state/static/css/main.32f8aea2.chunk.css",
+    "main.js": "/stvnwslybwmnjr/memory-state/static/js/main.db00683c.chunk.js",
+    "main.js.map": "/stvnwslybwmnjr/memory-state/static/js/main.db00683c.chunk.js.map",
+    "runtime-main.js": "/stvnwslybwmnjr/memory-state/static/js/runtime-main.a1563ca4.js",
+    "runtime-main.js.map": "/stvnwslybwmnjr/memory-state/static/js/runtime-main.a1563ca4.js.map",
+    "static/js/2.f76aa40c.chunk.js": "/stvnwslybwmnjr/memory-state/static/js/2.f76aa40c.chunk.js",
+    "static/js/2.f76aa40c.chunk.js.map": "/stvnwslybwmnjr/memory-state/static/js/2.f76aa40c.chunk.js.map",
+    "index.html": "/stvnwslybwmnjr/memory-state/index.html",
+    "precache-manifest.cc8894ce6076250e2fc193c011fc941e.js": "/stvnwslybwmnjr/memory-state/precache-manifest.cc8894ce6076250e2fc193c011fc941e.js",
+    "service-worker.js": "/stvnwslybwmnjr/memory-state/service-worker.js",
+    "static/css/main.32f8aea2.chunk.css.map": "/stvnwslybwmnjr/memory-state/static/css/main.32f8aea2.chunk.css.map",
+    "static/js/2.f76aa40c.chunk.js.LICENSE": "/stvnwslybwmnjr/memory-state/static/js/2.f76aa40c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1563ca4.js",
+    "static/js/2.f76aa40c.chunk.js",
+    "static/css/main.32f8aea2.chunk.css",
+    "static/js/main.db00683c.chunk.js"
+  ]
+}
