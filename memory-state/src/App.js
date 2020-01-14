@@ -48,7 +48,6 @@ class App extends React.Component {
       console.log("------all ready been clicked-----")//loss logic
       alert("That has already been selected! GAME OVER!!!")
       document.location.reload();
-      // this.setState({clicked: this.state.clicked.filter(item => item === false)})
 
     }else if(this.state.clicked.length === 8) {
       alert("YOU WON!! You must know how to count!")
@@ -69,7 +68,7 @@ class App extends React.Component {
   render(){
   return (
     <div className="red" style={{display: "flex"}}>
-
+  <p>#{this.state.clicked.length}</p>
   
       {
       this.state.carddata.map((value,index)=>{
