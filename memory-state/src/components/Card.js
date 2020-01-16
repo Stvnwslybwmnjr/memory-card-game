@@ -6,7 +6,7 @@ import './Card.css'
 function Card (props){
     return(
         <div onClick={()=>props.handler(props.image)}>
-            <img className="pic" src={path.join(__dirname, props.image)} alt={props.image}/>
+            <img className="pic" src={ props.image } alt={props.image}/>
         </div>
     )
 
