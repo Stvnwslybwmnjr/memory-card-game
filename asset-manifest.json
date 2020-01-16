@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/memory-card-game/static/css/main.32f8aea2.chunk.css",
-    "main.js": "/memory-card-game/static/js/main.963acaf9.chunk.js",
-    "main.js.map": "/memory-card-game/static/js/main.963acaf9.chunk.js.map",
+    "main.js": "/memory-card-game/static/js/main.4097fcbd.chunk.js",
+    "main.js.map": "/memory-card-game/static/js/main.4097fcbd.chunk.js.map",
     "runtime-main.js": "/memory-card-game/static/js/runtime-main.71c46d52.js",
     "runtime-main.js.map": "/memory-card-game/static/js/runtime-main.71c46d52.js.map",
     "static/js/2.c565993e.chunk.js": "/memory-card-game/static/js/2.c565993e.chunk.js",
     "static/js/2.c565993e.chunk.js.map": "/memory-card-game/static/js/2.c565993e.chunk.js.map",
     "index.html": "/memory-card-game/index.html",
-    "precache-manifest.b3cff4e7c95b8b67d944a66f71fb61f7.js": "/memory-card-game/precache-manifest.b3cff4e7c95b8b67d944a66f71fb61f7.js",
+    "precache-manifest.2d62e15ab17d3430bf9a25d624a06bce.js": "/memory-card-game/precache-manifest.2d62e15ab17d3430bf9a25d624a06bce.js",
     "service-worker.js": "/memory-card-game/service-worker.js",
     "static/css/main.32f8aea2.chunk.css.map": "/memory-card-game/static/css/main.32f8aea2.chunk.css.map",
     "static/js/2.c565993e.chunk.js.LICENSE": "/memory-card-game/static/js/2.c565993e.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.71c46d52.js",
     "static/js/2.c565993e.chunk.js",
     "static/css/main.32f8aea2.chunk.css",
-    "static/js/main.963acaf9.chunk.js"
+    "static/js/main.4097fcbd.chunk.js"
   ]
 }
